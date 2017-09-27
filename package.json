@@ -1,0 +1,27 @@
+{
+  "name": "electron_starter",
+  "version": "0.0.1",
+  "description": "using electron and react 16.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "launch": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiaoweiquan/electronStarter.git"
+  },
+  "keywords": [
+    "Electron",
+    "React"
+  ],
+  "author": "Jiaow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiaoweiquan/electronStarter/issues"
+  },
+  "homepage": "https://github.com/Jiaoweiquan/electronStarter#readme",
+  "devDependencies": {
+    "electron": "^1.7.8"
+  }
+}
